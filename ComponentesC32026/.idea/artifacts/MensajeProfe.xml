@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MensajeProfe">
+    <output-path>$PROJECT_DIR$/out/artifacts/MensajeProfe</output-path>
+    <root id="archive" name="MensajeProfe.jar">
+      <element id="module-output" name="ComponentesC32026" />
+    </root>
+  </artifact>
+</component>

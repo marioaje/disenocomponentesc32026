@@ -18,6 +18,7 @@ public class RegistrodeUsuarios {
             @Override
             public void actionPerformed(ActionEvent e) {
                 txtUsuario.setText("Saludos");
+           //     String var =  txtUsuario.getText();
             }
         });
     }
